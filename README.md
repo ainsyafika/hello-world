@@ -1,2 +1,5 @@
 # hello-world
-Just Another Repository
+
+Hello Friends!
+
+Have a nice day =)
